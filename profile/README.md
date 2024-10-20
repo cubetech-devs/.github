@@ -8,7 +8,7 @@
 | Cherry Mae Minguito  | Sales and Marketing  |
 | Lyneth Escuadro      | Finance Manager      |
 | Chester Kyles Colita | DevOps Engineer      |
-| Denver Mags          | Full-Stack Developer |
+| Macdenver Magbojos   | Full-Stack Developer |
 
 ## Repositories
 
